@@ -7,9 +7,9 @@ redirects = []
 [functions."*"]
 
 [build]
-publish = "C:\\Users\\49856\\WorkBuddy\\2026-08-10-09-51-07\\rork-medieval-3d-chess\\taptap-upload\\kings-gambit"
+publish = "."
 publishOrigin = "default"
-base = "C:\\Users\\49856\\WorkBuddy\\2026-08-10-09-51-07\\rork-medieval-3d-chess\\taptap-upload\\kings-gambit"
+base = "."
 
 [build.environment]
 
